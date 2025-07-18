@@ -55,6 +55,6 @@ Los gráficos generados muestran claramente cómo los diferentes indicadores té
 
 ## Contacto
 
-[Tu Nombre Completo]
-[Tu Perfil de LinkedIn (ej: https://www.linkedin.com/in/tu-nombre/)]
-[Tu Correo Electrónico (opcional)]
+* [Hector Andres Agila Macas]
+* [LinKedin www.linkedin.com/in/héctor-andrés-agila-macas-4b13b7332)]
+* [Correo: desh42@hotmail.com]
